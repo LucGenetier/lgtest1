@@ -30,7 +30,7 @@ url: "https://lucgenetier.github.io/" # the base hostname & protocol for your si
 github_username:  LucGenetier
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
