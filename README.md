@@ -1,3 +1,1 @@
-# lgtest1
-Just a test
---
+# Power Fx language
