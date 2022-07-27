@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+**** XXXX ****
+[Link to index2](index2.md)
+
+**** XXXX ****
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -97,9 +103,7 @@ URL: [Microsoft](http://microsoft.com)
 :smile:
 :angry:
 
-$
-\alpha, \beta, \gamma, \delta, \epsilon, \zeta, \eta, \theta, \kappa, \lambda, \mu, \nu, \omicron, \pi, \rho, \sigma, \tau, \upsilon, \phi, ...
-$  
+
 $\Gamma,  \Delta,  \Theta, \Lambda, \Xi, \Pi, \Sigma, \Upsilon, \Phi, \Psi, \Omega$
 
 
@@ -111,30 +115,6 @@ $$
 \int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
 $$    
 
-::: mermaid
-sequenceDiagram
-    Christie->>Josh: Hello Josh, how are you?
-    Josh-->>Christie: Great!
-    Christie->>Josh: See you later!
-:::
-
-::: mermaid
-gantt
-    title A Gantt chart
-    dateFormat YYYY-MM-DD
-    excludes 2022-03-16,2022-03-18,2022-03-19
-    section Section
-
-    A task          :a1, 2022-03-07, 7d
-    Another task    :after a1 , 5d
-:::
-
-:::mermaid
-graph LR;
-    A[Hard edge] -->|Link text| B(Round edge) --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-:::
 
 <p>This text needs to <del>strikethrough</del> <ins>since it is redundant</ins>!</p>
 <p><tt>This text is teletype text.</tt></p>
